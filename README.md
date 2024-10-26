@@ -1,2 +1,2 @@
-# Introduction_to_AI
+# AI fundamentals
 Artificial Intelligence module coursework
