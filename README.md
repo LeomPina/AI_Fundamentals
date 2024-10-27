@@ -7,7 +7,7 @@ The aim of this project is to offer an analysis on the fundamental topics of AI 
 ### Table of Contents
 
 1. Introduction to Artificial Intelligence
-          * The “Hello World” Program
+   * The “Hello World” Program
 2. Search Algorithms
   * Route Planning
   * 8-Puzzle Problem
